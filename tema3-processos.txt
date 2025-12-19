@@ -1,0 +1,19 @@
+TEMA 3: PROCESSOS EN LINUX
+==========================
+
+CONCEPTES:
+- Un procés és un programa en execució
+- Cada procés té un PID (Process ID) únic
+- Els processos poden estar en diferents estats
+
+COMANDES PRINCIPALS:
+- ps: veure processos actuals
+- top: monitor de processos en temps real
+- kill: finalitzar un procés
+- killall: finalitzar processos per nom
+
+ESTATS D'UN PROCÉS:
+- Running: en execució
+- Sleeping: esperant
+- Stopped: aturat
+- Zombie: finalitzat però no netejat
