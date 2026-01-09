@@ -9,3 +9,4 @@ Aquest repositori conté l’essència dels sistemes Operatius de 1r ASIX
 ## Autor Valentina 
 Curs: 1r ASIX 
 Data: 15 diciembre 2025
+HuberViafara
